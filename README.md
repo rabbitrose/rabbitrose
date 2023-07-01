@@ -14,5 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitrose&show_icons=true&theme=radical)
 ![Static Badge](https://img.shields.io/badge/python-3.9-green?style=%E5%B9%B3%E9%9D%A2&logo=python)
+![Static Badge](https://img.shields.io/badge/java-3.9-orange?style=%E5%B9%B3%E9%9D%A2&logo=python)
+![Static Badge](https://img.shields.io/badge/pytorch-3.9-blue?style=%E5%B9%B3%E9%9D%A2&logo=python)
+![Static Badge](https://img.shields.io/badge/tensorflow-2.0-yellow?style=%E5%B9%B3%E9%9D%A2&logo=python)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitrose&show_icons=true&theme=radical)
+
