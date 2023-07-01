@@ -45,8 +45,8 @@
 
 <p align="center">
 
-<a href="20213802071@m.scnu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
-<a href="2908415008@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="20213802071@m.scnu.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-20213802071@m.scnu.edu.cn-blue?style=flat-square&logo=gmail"></a>
+<a href="2908415008@qq.com"><img alt="Email" src="https://img.shields.io/badge/Email-2908415008@qq.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 
