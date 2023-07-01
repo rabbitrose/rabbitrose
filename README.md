@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 ![Static Badge](https://img.shields.io/badge/CSS3-black?style=%E5%BE%BD%E7%AB%A0&logo=CSS3&logoColor=%231572B6)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitrose&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitrose&show_icons=true&theme=dark)
 
