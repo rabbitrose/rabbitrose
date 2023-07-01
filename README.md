@@ -6,7 +6,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Software engineering and SCNU.
+- 🎓 &nbsp; Studying Software engineering at SCNU.
 - 💼 &nbsp; No work, Study is the first requirement.
 - 🌱 &nbsp; Learning more about Pytorch,Computer vision.
 - ✍️ &nbsp; Pursuing Video games and Basketball as hobbies/side hustles.
