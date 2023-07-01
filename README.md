@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/python-3.9-green?style=%E5%B9%B3%E9%9D%A2&logo=python)
-![Static Badge](https://img.shields.io/badge/java-3.9-orange?style=%E5%B9%B3%E9%9D%A2&logo=python)
-![Static Badge](https://img.shields.io/badge/pytorch-3.9-blue?style=%E5%B9%B3%E9%9D%A2&logo=python)
-![Static Badge](https://img.shields.io/badge/tensorflow-2.0-yellow?style=%E5%B9%B3%E9%9D%A2&logo=python)
+![Static Badge](https://img.shields.io/badge/python-yellow?style=%E5%BE%BD%E7%AB%A0&logo=python)
+![Static Badge](https://img.shields.io/badge/HTML5-white?style=%E5%BE%BD%E7%AB%A0&logo=HTML5&logoColor=%23E34F26)
+![Static Badge](https://img.shields.io/badge/CSS3-black?style=%E5%BE%BD%E7%AB%A0&logo=CSS3&logoColor=%231572B6)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitrose&show_icons=true&theme=radical)
 
