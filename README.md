@@ -39,7 +39,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Contact with Me </h3>
 
 <p align="center">
 
