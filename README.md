@@ -3,10 +3,10 @@
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
-- 🎓 &nbsp; Studying Software engineering at SCNU.
+- 🤔 &nbsp; Exploring LLM related technologies.
+- 🎓 &nbsp; SCNU SE——RUC CS
 - 💼 &nbsp; No work, Study is the first requirement.
-- 🌱 &nbsp; Learning more about Pytorch,Computer vision.
+- 🌱 &nbsp; Learning more about LLMs.
 - ✍️ &nbsp; Pursuing Video games and Basketball as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -36,6 +36,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabbitrose&theme=algolia&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitrose&theme=algolia&layout=compact" />
 </a>
+![trophy](https://github-profile-trophy.vercel.app/?username=rabbitrose)
 
 <br/>
 
