@@ -34,7 +34,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabbitrose&theme=algolia&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbitrose&theme=algolia&layout=compact" />
 </a>
-![trophy](https://github-profile-trophy.vercel.app/?username=rabbitrose)
+
 
 <br/>
 
