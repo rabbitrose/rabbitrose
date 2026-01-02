@@ -6,14 +6,7 @@
 - 🎓 &nbsp; CS phd in RUC
 - 🔭 &nbsp; exploring nlp,LLMs 🚀
 
-<br/>
 
-<!-- <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rabbitrose&theme=algolia&show_icons=true" />
-</a> -->
-
-
-<br/>
 
 <h3> 🤝🏻 &nbsp;Contact with Me </h3>
 
