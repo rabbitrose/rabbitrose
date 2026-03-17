@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<a href="2025001151@ruc.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-20213802071@m.scnu.edu.cn-blue?style=flat-square&logo=gmail"></a>
+<a href="2025001151@ruc.edu.cn"><img alt="Email" src="https://img.shields.io/badge/Email-2025001151@ruc.edu.cn-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
