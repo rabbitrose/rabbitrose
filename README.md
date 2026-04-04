@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; A CS phd in Renmin University of China
-- 🔭 &nbsp; exploring Information Retrieval and LLMs 🚀
+- 🔭 &nbsp; exploring Information Retrieval and LLMs
 
 <h3> 🤝🏻 &nbsp;Contact with Me </h3>
 
