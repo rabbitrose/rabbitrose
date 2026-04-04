@@ -5,8 +5,8 @@
 
 - 🎓 &nbsp; A CS phd in Renmin University of China
 - 🔭 &nbsp; exploring Information Retrieval and LLMs 🚀
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitrose&show_icons=true&theme=radical)
-[![Aurora's GitHub stats](https://github-readme-stats.vercel.app/api?username=rabbitrose)]
+
+  <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3> 🤝🏻 &nbsp;Contact with Me </h3>
 
